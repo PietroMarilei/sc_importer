@@ -1,0 +1,6 @@
+{
+  "dismantler": "lastrina",
+  "endpoint": "http://localhost:3000/access",
+  "vehicles_chunk_size": 5500,
+  "components_chunk_size": 100000
+}
