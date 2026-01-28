@@ -1,0 +1,13 @@
+node_modules
+package-lock.json
+*.code-workspace
+
+.~*
+.xdp*
+.env
+
+run_tp.sh
+
+report.txt
+
+dismantlers/pianigiani/report.txt

@@ -1,0 +1,43 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NfaWQiOjczLCJpYXQiOjE3Njg4MTE0MDAsImV4cCI6MTc2ODgzMzAwMH0.zmuKYpEQJXFhD9uCwncB765Mpjf1Y6-f-dWbuRGssb8",
+
+  "target_warehouse": "merged",
+  "suffix": "",
+  "lane": {
+    "separator": "/",
+    "floors": []
+  },
+  "available_types": ["Autovetture e veicoli commerciali"],
+  "warehouse_ids_map": [
+    {
+      "warehouse_id": 39,
+      "warehouse_name": "FIRENZE"
+    },
+    {
+      "warehouse_id": 37,
+      "warehouse_name": "AREZZO"
+    },
+    {
+      "warehouse_id": 38,
+      "warehouse_name": "GROSSETO"
+    },
+    {
+      "warehouse_id": 42,
+      "warehouse_name": "V.FRANCI"
+    },
+    {
+      "warehouse_id": 41,
+      "warehouse_name": "ESTERNO"
+    },
+    {
+      "warehouse_id": 40,
+      "warehouse_name": "SIENA"
+    }
+  ],
+
+  "multibreves_publish_column": "Vendi su Multibreves",
+  "multibreves_price_column": "Prezzo Multibreves",
+
+  "order_price_column": "Prezzo Multibreves",
+  "registered_at_format": ""
+}
